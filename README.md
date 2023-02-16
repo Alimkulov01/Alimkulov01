@@ -1,8 +1,8 @@
-### Welcome to Abek's repositories 
+### Welcome to Alimkulov01's repositories 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimkulov01-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="Alimkulov01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimkulov01&label=Profile%20views&color=0e75b6&style=flat" alt="Alimkulov01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alimkulov01-cloud" alt="Alimkulov01-cloud" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alimkulov01" alt="Alimkulov01" /></a> </p>
 
 
 - 🌱 I’m currently learning TypeScript, NestJS, VueJS, MongoDB
@@ -31,5 +31,5 @@ countDown(4);
 3
 2
 1
-<a href="http://www.github.com/Alimkulov01-cloud"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Alimkulov01-cloud&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-![](https://leetcard.jacoblin.cool/Alimkulov01-cloud?theme=nord&font=Fira%20Code&ext=heatmap)
+<a href="http://www.github.com/Alimkulov01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Alimkulov01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![](https://leetcard.jacoblin.cool/Alimkulov01?theme=nord&font=Fira%20Code&ext=heatmap)
