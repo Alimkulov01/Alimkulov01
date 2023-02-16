@@ -1,16 +1,35 @@
-### Hi there 👋
+### Welcome to Abek's repositories 
 
-<!--
-**Alimkulov01/Alimkulov01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimkulov01-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="Alimkulov01" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alimkulov01-cloud" alt="Alimkulov01-cloud" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning TypeScript, NestJS, VueJS, MongoDB
+- 👯 I’m looking for a good team and I want to help them with my knowledge
+- 💬 Ask me about React, Redux, JavaScript 
+- 📫 How to reach me: azamjon.alimqulov20011222@gmail.com
+
+#### A piece of my code in JS
+
+ javascript
+function countDown(number) {
+    console.log(number);
+
+    const newNumber = number - 1;
+
+    if (newNumber > 0) {
+        countDown(newNumber);
+    }
+}
+
+countDown(4);
+
+#### Result
+
+4
+3
+2
+1
+<a href="http://www.github.com/Alimkulov01-cloud"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Alimkulov01-cloud&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![](https://leetcard.jacoblin.cool/Alimkulov01-cloud?theme=nord&font=Fira%20Code&ext=heatmap)
