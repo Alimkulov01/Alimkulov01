@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alimkulov01" alt="Alimkulov01" /></a> </p>
 
 
-- 🌱 I’m currently learning TypeScript, NestJS, VueJS, MongoDB
+- 🌱 I’m currently learning  VueJS, MongoDB
 - 👯 I’m looking for a good team and I want to help them with my knowledge
 - 💬 Ask me about React, Redux, JavaScript 
 - 📫 How to reach me: azamjon.alimqulov20011222@gmail.com
