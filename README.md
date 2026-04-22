@@ -10,5 +10,5 @@
 - 💬 Ask me about React, Redux, JavaScript 
 - 📫 How to reach me: azamjon.alimqulov20011222@gmail.com
 
-<a href="http://www.github.com/Alimkulov01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Alimkulov01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-![](https://leetcard.jacoblin.cool/Alimkulov01?theme=nord&font=Fira%20Code&ext=heatmap)
+<!-- <a href="http://www.github.com/Alimkulov01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Alimkulov01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![](https://leetcard.jacoblin.cool/Alimkulov01?theme=nord&font=Fira%20Code&ext=heatmap) -->
